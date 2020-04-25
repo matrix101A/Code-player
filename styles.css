@@ -1,0 +1,77 @@
+body{
+	margin:0px;
+	padding:0px;
+	font-family:sans-serif;
+	}
+	
+	h2{
+	margin:0px;
+	padding:0px;
+	}
+	
+	#header{
+	
+	width:100%;
+	background-color:#EEEEEE;
+	height:30px;
+	padding:5px;
+	}
+	
+	#logo{
+	float:left;
+	}
+	#buttonContainer{
+	width:300px;
+	margin:0 auto;
+	}
+	.toggleButton{
+	float:left;
+	border:1px solid grey;
+	border-right:none;
+	padding:5px;
+	}
+	
+	.active{
+	background-color:#E8F2FF;
+	}
+	
+	#html{
+	border-top-left-radius:10%;
+	border-bottom-left-radius:10%;
+	}
+	
+	#output{
+	border-top-right-radius:10%;
+	border-bottom-right-radius:10%;
+	border-right:1px solid grey;
+	
+	}
+	.highlightedButton{
+	background-color:grey;
+	}
+	textarea{
+	height:100%;
+	width:50%;
+	resize:none;
+	border-top:none;
+	border-color:grey;
+	font-size:20px;
+	}
+	
+	.panel{
+	float:left;
+	width:49.6%;
+	border-left:none;
+	
+	}
+	iframe{
+	border:none;
+	height:100%;
+	
+	
+	}
+	
+	.hidden
+	{
+	display:none;
+	}
